@@ -6,7 +6,7 @@
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
 
 
-#### Full-Stack developer based in Algeria.
+#### Full-Stack developer based in Algeria +4 years experience.
 
 ##### BIO
 - 🏢 I'm currently working at **Sarl DNS-IT**.
