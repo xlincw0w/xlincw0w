@@ -17,7 +17,7 @@
 - 📫 Reach me: khaled.khazem@yahoo.com.
 - 🎯 Portfolio site: https://khaledkhazem.herokuapp.com/.
 
-##### Experiences
+##### Experience
 - ✔️ Development of a social network (Team leader) +16 members
 - ✔️ Hospitalization management application
 - ✔️ Order management applications
