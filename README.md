@@ -9,7 +9,6 @@
 #### Full-Stack developer based in Algeria.
 
 ##### BIO
-
 - 🏢 I'm currently working at **Sarl DNS-IT**.
 - ⚡ Available for Freelance projects.
 - 🔭 Master's degree in information systems engineering.
@@ -17,3 +16,14 @@
 - 🌱 Learning all about **Open Source**.
 - 📫 Reach me: khaled.khazem@yahoo.com.
 - 🎯 Portfolio site: https://khaledkhazem.herokuapp.com/.
+
+##### Experiences
+- ✔️ Development of a social network (Team leader) +16 members
+- ✔️ Hospitalization management application
+- ✔️ Order management applications
+- ✔️ CMMS project built with react
+- ✔️ ERP project built with react
+- ✔️ Ai Hackathon Tunisia 2019 Competitor
+- ✔️ Hotel room management application
+- ✔️ Maze game built with python
+
