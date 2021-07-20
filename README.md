@@ -8,7 +8,7 @@
 
 #### Full-Stack developer based in Algeria +4 years experience.
 
-##### BIO
+##### Bio
 - 🏢 I'm currently working at **Sarl DNS-IT**.
 - ⚡ Available for Freelance projects.
 - 🔭 Master's degree in information systems engineering.
