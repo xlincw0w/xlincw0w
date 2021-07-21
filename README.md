@@ -11,7 +11,7 @@
 ##### Bio
 - 🏢 I'm currently working at **Sarl DNS-IT**.
 - ⚡ Available for Freelance projects.
-- 🔭 Master's degree in information systems engineering.
+- 🔭 Master degree in information systems engineering.
 - ⚙️ I use daily: `.js`, `.ts`, `.python`.
 - 🌱 Learning all about **Open Source**.
 - 📫 Reach me: khaled.khazem@yahoo.com.
