@@ -18,6 +18,7 @@
 - 🎯 Portfolio site: https://khaledkhazem.herokuapp.com/.
 
 ##### Experience
+- ✔️ Writing assistant with AI powered tool
 - ✔️ Development of a social network (Team leader) +16 members
 - ✔️ Steam bot that trades cryptocurrencies against inventory items
 - ✔️ Hospitalization management application
