@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.python`.
 - 🌱 Learning all about **Open Source**.
 - 📫 Reach me: khaled.khazem@yahoo.com.
-- 🎯 Portfolio site: https://khaledkhazem.herokuapp.com/.
+- 🎯 Portfolio site: https://www.khaledkhazem.com/.
 
 ##### Experience
 - ✔️ Writing assistant with AI powered tool
