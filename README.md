@@ -9,7 +9,7 @@
 #### Full-Stack developer based in Algeria +4 years experience.
 
 ##### Bio
-- 🏢 I'm currently working at **Sarl DNS-IT**.
+- 🏢 I'm currently working at **ITEXC Agency**.
 - ⚡ Available for Freelance projects.
 - 🔭 Master degree in information systems engineering.
 - ⚙️ I use daily: `.js`, `.ts`, `.python`.
