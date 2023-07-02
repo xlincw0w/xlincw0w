@@ -1,9 +1,9 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-green)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
 ![HTML](https://img.shields.io/badge/React-Expert-green)
 ![CSS](https://img.shields.io/badge/Node-Expert-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
 
 #### Full-Stack developer based in Algeria +4 years experience.
 
