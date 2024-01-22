@@ -1,0 +1,46 @@
+	"vim.highlightedyank.enable": true,
+	"vim.highlightedyank.color": "#a9dc7660",
+	"vim.highlightedyank.duration": 250,
+	"vim.useSystemClipboard": true,
+	"vim.normalModeKeyBindings": [
+		{
+			"before": ["space", "e"],
+			"commands": ["workbench.view.explorer"]
+		},
+		{
+			"before": ["space", "t"],
+			"commands": ["workbench.action.terminal.focus"]
+		},
+		{
+			"before": ["g", "p", "d"],
+			"commands": ["editor.action.peekDefinition"]
+		},
+		{
+			"before": ["g", "h"],
+			"commands": ["editor.action.showDefinitionPreviewHover"]
+		},
+		{
+			"before": ["g", "i"],
+			"commands": ["editor.action.goToImplementation"]
+		},
+		{
+			"before": ["g", "p", "i"],
+			"commands": ["editor.action.peekImplementation"]
+		},
+		{
+			"before": ["g", "q"],
+			"commands": ["editor.action.quickFix"]
+		},
+		{
+			"before": ["g", "r"],
+			"commands": ["editor.action.referenceSearch.trigger"]
+		},
+		{
+			"before": ["g", "t"],
+			"commands": ["editor.action.goToTypeDefinition"]
+		},
+		{
+			"before": ["g", "p", "t"],
+			"commands": ["editor.action.peekTypeDefinition"]
+		}
+	],
